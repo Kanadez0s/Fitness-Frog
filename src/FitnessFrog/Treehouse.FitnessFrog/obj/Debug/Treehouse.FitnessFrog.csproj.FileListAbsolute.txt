@@ -21,3 +21,15 @@ C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse
 C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.csproj.CopyComplete
 C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.dll
 C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.pdb
+C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\bin\roslyn\csc.exe
+C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\bin\roslyn\vbc.exe
+C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kanadez0s\source\repos\Kanadez0s\Fitness-Frog\src\FitnessFrog\Treehouse.FitnessFrog\bin\roslyn\VBCSCompiler.exe.config
