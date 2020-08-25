@@ -1,30 +1,37 @@
 ﻿@model Treehouse.FitnessFrog.Models.Entry
 @using Treehouse.FitnessFrog.Models
 
+
+
 @{
     ViewBag.Title = "Add Entry";
-   
+
 }
 
 
 
 <h2>@ViewBag.Title</h2>
 
+
+
 @using (Html.BeginForm())
 {
+    @Html.ValidationSummary("The following errors where found:", new { @class = "alert alert-danger" })
+
     <div class="row">
 
         <div class="col-md-6">
-                       
+
 
             <div class="form-group">
                 @Html.LabelFor(m => m.Date, new { @class = "control-label" })
-                @Html.TextBoxFor(m => m.Date, "{0:d}", new { @class = "form-control" })                
+                @Html.TextBoxFor(m => m.Date, "{0:d}", new { @class = "form-control datepicker" })
             </div>
 
             <div class="form-group">
                 @Html.LabelFor(m => m.ActivityId, new { @class = "control-label" })
                 @Html.DropDownListFor(m => m.ActivityId, (SelectList)ViewBag.ActivitiesSelectListItems, "", new { @class = "form-control" })
+                @*@Html.ValidationMessageFor(m => m.ActivityId)*@
             </div>
 
             <div class="form-group">
